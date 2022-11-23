@@ -1,0 +1,6 @@
+tensorflow-gpu=2.3.0
+cuda=10.1.89
+cudnn=7.6.5
+numpy=1.18.5
+sklearn=0.24.1
+networkx=2.5.1
